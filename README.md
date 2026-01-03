@@ -8,3 +8,6 @@ AtliQ Grands is a reputable chain of upscale hotels catering to both luxury and 
 
 BUSINESS MODEL
 
+
+
+
