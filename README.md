@@ -1,1 +1,0 @@
-# Atliq-Hotels-data-analysis-project-using-python
