@@ -102,8 +102,13 @@ Output: mmm yy Jul 22 389940912 Jun 22 377191229 May 22 408375641
 Recommendations
 
 1.Weekdays Focus: Target weekdays  marketing to balance occupancy rate.
+
 2.City Strategies: Invest in high-demand cities like Delhi.
+
 3.Seasonal Adjustments: Align room tariff / pricing with seasonal demand.
+
 4.Room Optimization: Adjust pricing for premium rooms.
+
 5.Maximize City Revenue: Offer additional services, collaborate locally.
+
 6.Monthly Revenue Analysis: Monitor trends for informed decisions.
