@@ -89,21 +89,21 @@ output city Delhi 62.47 Hyderabad 58.46 Mumbai 58.38 Bangalore 56.44
 
 latest_df = pd.concat([df, df_august], ignore_index = True, axis = 0) latest_df.tail(10)
 
-Print revenue realized per city
+6: Print revenue realized per city
 df_bookings_all.groupby("city")["revenue_realized"].sum()
 
 Output: city Bangalore 420383550 Delhi 294404488 Hyderabad 325179310 Mumbai 668569251
 
-Print month by month revenue
+7: Print month by month revenue
 df_bookings_all.groupby("mmm yy")["revenue_realized"].sum()
 
 Output: mmm yy Jul 22 389940912 Jun 22 377191229 May 22 408375641
 
 Recommendations
 
-Weekdays Focus: Target weekdays   marketing to balance occupancy rate.
-City Strategies: Invest in high-demand cities like Delhi.
-Seasonal Adjustments: Align room tariff / pricing with seasonal demand.
-Room Optimization: Adjust pricing for premium rooms.
-Maximize City Revenue: Offer additional services, collaborate locally.
-Monthly Revenue Analysis: Monitor trends for informed decisions.
+1.Weekdays Focus: Target weekdays  marketing to balance occupancy rate.
+2.City Strategies: Invest in high-demand cities like Delhi.
+3.Seasonal Adjustments: Align room tariff / pricing with seasonal demand.
+4.Room Optimization: Adjust pricing for premium rooms.
+5.Maximize City Revenue: Offer additional services, collaborate locally.
+6.Monthly Revenue Analysis: Monitor trends for informed decisions.
